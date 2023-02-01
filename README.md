@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo 2 del PrepCourse de Henry
+este es un repositorio de prueba para ver como clonar un repositorio de gitub y traerlo a la computadora.
+
